@@ -1,2 +1,4 @@
 # kinesis-advantage-hotkeys
-Hotkey layouts for Windows and Mac
+
+Thumb cluster remaps for when using Windows or macOS
+
